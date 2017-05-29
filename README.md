@@ -13,6 +13,7 @@ sahil$ ./a.out
 How many words in your password you want?
 
 6
+
 Do you want to see details? Y/N
 
 y
@@ -22,7 +23,7 @@ y
                          <details.txt>
                          
  
-                 YOUR PASSWORD IS IN
+                  YOUR PASSWORD IS IN
                  
                          <password.txt>
                          
