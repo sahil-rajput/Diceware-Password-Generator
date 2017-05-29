@@ -1,24 +1,24 @@
 ----------------------------------------------
 Dice roll : 1
-1 1 1 1 1
-WordList Index Number = 1311
+3 3 4 1 6
+WordList Index Number = 7026
 ----------------------------------------------
 Dice roll : 2
-6 6 6 6 6
-WordList Index Number = 6320
+3 4 1 4 2
+WordList Index Number = 3265
 ----------------------------------------------
 Dice roll : 3
-3 3 3 3 3
-WordList Index Number = 1127
+6 2 6 4 6
+WordList Index Number = 6902
 ----------------------------------------------
 Dice roll : 4
-5 5 5 5 5
-WordList Index Number = 584
+5 6 2 5 2
+WordList Index Number = 3739
 ----------------------------------------------
 Dice roll : 5
-6 6 6 6 6
-WordList Index Number = 1506
+4 1 4 4 1
+WordList Index Number = 136
 ----------------------------------------------
 Dice roll : 6
-1 1 1 1 1
-WordList Index Number = 2265
+5 1 4 5 1
+WordList Index Number = 143
