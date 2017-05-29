@@ -4,7 +4,7 @@ Diceware is a method for picking passphrases that uses dice to select words at r
 1. https://en.wikipedia.org/wiki/Diceware
 2. http://world.std.com/~reinhold/diceware.html
 # About
-This is a C++ program which is implemented to generate random password using Diceware Method.
+This is a C++ program which is implemented to generate password using Diceware Method.
 # Compile and Run
 sahil$ g++ main.cpp
 
