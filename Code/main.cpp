@@ -44,7 +44,7 @@ void showDetails(char details[], int index, int i)
         outFile.open ("details.txt", ofstream::app);
         outFile << "----------------------------------------------" << endl;
         outFile <<"Dice roll : "<< i<< endl;
-        outFile << diceroll[0]<<" "<<diceroll[0]<<" "<<diceroll[0]<<" "<<diceroll[0]<<" "<<diceroll[0]<<endl;
+        outFile << diceroll[0]<<" "<<diceroll[1]<<" "<<diceroll[2]<<" "<<diceroll[3]<<" "<<diceroll[4]<<endl;
         outFile << "WordList Index Number = "<<index<< endl;
         outFile.close();
     }
